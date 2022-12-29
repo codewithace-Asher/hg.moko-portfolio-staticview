@@ -14,7 +14,7 @@
 ![screenshot](https://github.com/codewithace-Asher/hg.moko-portfolio-staticview/blob/56dc0d651a8039a53fb7e4f437e27989afaacfdb/profile-hg.moko.png)<br>
 
 ---
-Brief introduction for HG. Moko , a work in progress - mainly Front-End focused. 
+<p align="center">Brief Outlook for HG. Moko , Front-End focused Project. </p>
 
 <h1 align="center">Credit to : </h1>
 <p align="center">
@@ -22,7 +22,7 @@ Brief introduction for HG. Moko , a work in progress - mainly Front-End focused.
 - YT Kevin Powell </p>
 
 <h1 align="center">Content & Media : </h1>
-<p align="center">Adobe Creative Cloud ( Dreamweaver , Illustrator, Photoshop)</p><br>
+<p align="center">Adobe Creative Cloud ( Dreamweaver , Illustrator, Photoshop)</p>
 
 <h1 align="center">License : </h1>
 <p align="center">Use it freely but please do not republish, distribute or sell "as-is".</p>

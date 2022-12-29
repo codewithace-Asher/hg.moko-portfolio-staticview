@@ -17,14 +17,15 @@
 Brief introduction for HG. Moko , a work in progress - mainly Front-End focused. 
 
 <h1 align="center">Credit to : </h1>
+<p align="center">
 - Code + ( Learning People Global)<br>
-- YT Kevin Powell
+- YT Kevin Powell </p>
 
 <h1 align="center">Content & Media : </h1>
-- Adobe Creative Cloud ( Dreamweaver , Illustrator, Photoshop)<br>
+<p align="center">Adobe Creative Cloud ( Dreamweaver , Illustrator, Photoshop)</p><br>
 
 <h1 align="center">License : </h1>
-Use it freely but please do not republish, distribute or sell "as-is".
+<p align="center">Use it freely but please do not republish, distribute or sell "as-is".</p>
 
 
 <h3 align="center">Connect with me:</h3>

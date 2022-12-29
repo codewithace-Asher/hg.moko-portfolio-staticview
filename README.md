@@ -16,15 +16,15 @@
 ---
 <p align="center">Brief Outlook for HG. Moko , Front-End focused Project. </p>
 
-<h1 align="center">Credit to : </h1>
+<h3 align="center">Credit to : </h3>
 <p align="center">
 - Code + ( Learning People Global)<br>
 - YT Kevin Powell </p>
 
-<h1 align="center">Content & Media : </h1>
+<h3 align="center">Content & Media : </h3>
 <p align="center">Adobe Creative Cloud ( Dreamweaver , Illustrator, Photoshop)</p>
 
-<h1 align="center">License : </h1>
+<h3 align="center">License : </h3>
 <p align="center">Use it freely but please do not republish, distribute or sell "as-is".</p>
 
 

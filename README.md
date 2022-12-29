@@ -9,7 +9,7 @@ This is a personal project as i still navigate my way around learning HTML & CSS
 Brief introduction for HG. Moko , a work in progress - mainly Front-End focused. 
 
 <h1>Credit to : </h1>
-- Code + ( Learning People Global)
+- Code + ( Learning People Global)<br>
 - YT Kevin Powell
 
 <h1>Content & Media : </h1>

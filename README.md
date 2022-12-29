@@ -1,9 +1,9 @@
 # HG.Moko Portfolio Static-View
 HG.Moko is a Static Website (still under construction)
 
-This is a personal project as i still navigate my way around learning HTML & CSS.
+This is a personal project as i still navigate my way around learning HTML & CSS.<br>
 
-![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a87629f7b0e780aa43b11c338f00aa324d695017/codewithace-screenshot.jpg)
+![screenshot](https://github.com/codewithace-Asher/hg.moko-portfolio-staticview/blob/56dc0d651a8039a53fb7e4f437e27989afaacfdb/profile-hg.moko.png)<br>
 
 ---
 Brief introduction for HG. Moko , a work in progress - mainly Front-End focused. 

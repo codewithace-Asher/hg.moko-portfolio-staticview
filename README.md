@@ -14,7 +14,6 @@ Brief introduction for HG. Moko , a work in progress - mainly Front-End focused.
 
 <h1>Content & Media : </h1>
 - Adobe Creative Cloud ( Dreamweaver , Illustrator, Photoshop)<br>
-- Canva
 
 <h1>License : </h1>
 Use it freely but please do not republish, distribute or sell "as-is".

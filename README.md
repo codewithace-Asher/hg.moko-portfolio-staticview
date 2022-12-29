@@ -3,6 +3,8 @@ HG.Moko is a Static Website (still under construction)
 
 This is a personal project as i still navigate my way around learning HTML & CSS.<br>
 
+![screenshot](https://github.com/codewithace-Asher/hg.moko-portfolio-staticview/blob/355509735083cf052a3cdc24a3d14e2ba8aeaf54/Screenshot%202022-12-29%20221306.jpg)<br>
+
 ![screenshot](https://github.com/codewithace-Asher/hg.moko-portfolio-staticview/blob/56dc0d651a8039a53fb7e4f437e27989afaacfdb/profile-hg.moko.png)<br>
 
 ---
